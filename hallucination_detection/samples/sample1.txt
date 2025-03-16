@@ -1,0 +1,11 @@
+The French Revolution started in 1789. It led to significant social and political change.
+The flower is beautiful. 
+2nd World War began in 1939 and ended in 1945. Some say it was the 2nd deadliest conflict in history.
+
+Flash Attention is an algorithm that speeds up the training and inference of transformer models, refered to FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness.
+
+"If it is raining, then the ground is wet" is equivalent to "It is not raining or the ground is wet". 
+"If it is raining, then the ground is wet" is equivalent to "It is raining or the ground is not wet". 
+9.91111111>9.999 is true.
+
+russia ukraine war already ended.

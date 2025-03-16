@@ -1,0 +1,6 @@
+cerebras-cloud-sdk>=0.8.0
+requests>=2.31.0
+newsapi-python>=0.2.7
+scholarly>=1.7.11
+arxiv>=1.4.7
+pathlib>=1.0.1

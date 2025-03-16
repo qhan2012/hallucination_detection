@@ -1,0 +1,11 @@
+# hallucination_detection/requirements.txt
+# Example external libraries you might need:
+
+requests==2.31.0
+numpy==1.24.2
+# For advanced domain classification or other LLM usage, e.g.
+# openai==0.27.0
+# google-api-python-client==2.80.0
+# A symbolic math library for the math_check, e.g.
+# sympy==1.12
+# etc.
